@@ -2,7 +2,7 @@ body {
   background: #fff;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 21px;
-  line-height: 1.8;
+  line-height: 1.4;
   margin: 0;
   padding: 30px;
 }
@@ -56,4 +56,8 @@ p, ul {
 
 ul {
   padding-left: 30px;
+}
+
+p {
+  text-indent: 30px;
 }
